@@ -9,6 +9,7 @@ namespace Iris
 {
     class Program
     {
+        // Inspired: https://docs.microsoft.com/en-us/dotnet/machine-learning/tutorials/iris-clustering
         // STEP 1: Define your data structures
         // IrisData is used to provide training data, and as
         // input for prediction operations
